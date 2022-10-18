@@ -1,0 +1,26 @@
+body {
+    background-image: url('marvin-meyer-XTI3c4NZNNY-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+
+p {
+    font-style: normal;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-column: auto;
+}
+
+form {
+    display: flex;
+    justify-content: left;
+    display: grid;
+    grid-column: auto;
+}
